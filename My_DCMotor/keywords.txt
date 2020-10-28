@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+My_DCMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+forward_full_speed	KEYWORD2
+forward_with_speed  KEYWORD2
+reverse_full_speed  KEYWORD2
+reverse_with_speed  KEYWORD2
+dc_break  KEYWORD2
+stop_motor  KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
