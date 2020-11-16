@@ -1,6 +1,5 @@
 # Arduino
-
-Simple repository for two DC motors controlled by Arduino Mega and sensors.
+As a part of Software Development for Industrial and Mobile Robotics course this is a repository for two DC motors controlled by Arduino Mega and sensors.
 
 Sinus line movement:
 https://youtu.be/7Zgnv53TgT8
